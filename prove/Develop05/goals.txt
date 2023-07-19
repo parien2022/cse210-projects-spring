@@ -1,0 +1,4 @@
+3500
+SimpleGoal:Drink mate,Hot mate,200, True
+EternalGoal:Read Scriptures,1 Chapter each day,300
+ChecklistGoal:Love my wife,Be more kind,1500,4,1000,4
